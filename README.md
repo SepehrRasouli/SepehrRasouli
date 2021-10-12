@@ -2,11 +2,7 @@
 
 <div align="center">
 
- 
-__Hello , Im Sepehr Rasouli !__ 
-
-
-I'm a Back-End Web Developer, \
+I'm a Junior Back-End Web Developer, \
 I usually code with Python & I am always eager to learn new things !
 
 
