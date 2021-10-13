@@ -1,7 +1,8 @@
 ```python
 def WhoAmI(**kwargs):
     print("Who Am I ?")
-    print(f"""Hi ! My name is {kwargs['name']} I'm {kwargs['age']} Years Old and I Live in {kwargs['city']}""")
+    print(f"Hi ! My name is {kwargs['name']}")
+    print(f"I'm {kwargs['age']} Years Old & I Live in {kwargs['city']}")
     print(f"I'm a Beginner {kwargs['developer']} developer, And I'm always eager to learn new things !")
     print(f"I'm Currently Learning {kwargs['learning']}")
     print(f"My Favorties Are => {kwargs['favorites']}\n")
