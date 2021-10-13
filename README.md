@@ -2,10 +2,10 @@
 
 <div align="center">
 
-* I'm a Junior Back-End Web Developer, \
+* I'm a Junior Back-End Web Developer,
 * I usually code with Python & I'm always eager to learn new things !
-* I'm currently Learning Python & Django
-* I'm currently Working on PyBotNet ! 
+* I'm currently Learning Python & Django,
+* And I'm currently Working on PyBotNet ! 
  
 __Favorites__
  
