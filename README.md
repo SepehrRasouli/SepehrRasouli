@@ -13,7 +13,9 @@ Linux  &  Open source projects \
 Django  &  Python
 
 My Blog : sepehrrs.blog.ir
- 
+
+ * Im currently Learning Python  & Django
+ * Im currently Working on PyBotNet ! 
  <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=SepehrRasouli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
  
