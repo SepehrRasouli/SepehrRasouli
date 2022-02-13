@@ -30,7 +30,7 @@ WhoAmI(
     name="Sepehr Rasouli",
     age=15,
     city="Tehran",
-    developer="Back-End Developer",
+    developer="Back-End",
     learning="Django , Linux And Many Other Things !",
     favorites="Python - Django - Linux - Open-Source Projects - English - Lo-Fi Music :D"
 )
